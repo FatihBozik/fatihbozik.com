@@ -1,0 +1,11 @@
+---
+layout: page
+title: Hakkımda
+modified: 
+comments: false
+share : false
+image:
+  feature: 
+---
+
+
