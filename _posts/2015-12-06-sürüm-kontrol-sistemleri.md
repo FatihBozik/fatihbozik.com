@@ -36,5 +36,5 @@ Yerel ve merkezi kontrol sistemlerinin ikisinde de sürüm kontrolüne alınan d
 
 **Kaynaklar:**
 
-1. [Chacon, S. 2009. Pro Git (1st edition)](http://www.amazon.com/Pro-Git-Scott-Chacon/dp/1430218339) <br/>
-2. [Başlangıç Sürüm kontrolü hakkında](https://git-scm.com/book/tr/v1/Ba%C5%9Flang%C4%B1%C3%A7-S%C3%BCr%C3%BCm-Kontrol%C3%BC-Hakk%C4%B1nda)
+* [Chacon, S. 2009. Pro Git (1st edition)](http://www.amazon.com/Pro-Git-Scott-Chacon/dp/1430218339) <br/>
+* https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control

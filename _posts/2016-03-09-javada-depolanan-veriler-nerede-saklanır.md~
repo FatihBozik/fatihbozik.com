@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 
 ## Değişkenler
 
-Java'da **primitif** ve **referans** değişkeni olmak üzere 2 tip değişken vardır. <!--mode-->
+Java'da **primitif** ve **referans** değişkeni olmak üzere 2 tip değişken vardır.<!--more-->
 
 ### Primitif değişkenler (primitive variable)
 Primitif değişkenler değerlerini kendi üzerlerinde taşırlar. Bunlar 8 tipten biri olabilir `byte`, `short`, `int`, `long`, `char`, `float`, `double`, `boolean`.
