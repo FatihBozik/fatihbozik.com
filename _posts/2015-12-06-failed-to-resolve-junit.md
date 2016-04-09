@@ -5,10 +5,13 @@ tags: [android studio gradle error, junit error]
 comments: true
 image:
   feature:
+excerpt_separator: <!--more-->
 ---
 
-### Hatas
+### Hata
 Ubuntu işletim sisteminde Android Studio'da yeni bir proje oluşturduğumda karşılaştığım bir hata.
+
+<!--more-->
 
 <img style="max-width: 100%;" src="/images/failed-to-resolve-junit/junit error.png" alt="Grandle junit hatası" height="auto">
 

@@ -3,18 +3,17 @@ layout: post
 title: Java'da Depolanan Veriler Nerede Saklanır?
 tags: [java, heap, stack]
 comments: true
+excerpt_separator: <!--more-->
 ---
 
 {% include _toc.html %}
 
 ## Değişkenler
 
-Java'da **primitif** ve **referans** değişkeni olmak üzere 2 tip değişken vardır.
+Java'da **primitif** ve **referans** değişkeni olmak üzere 2 tip değişken vardır.<!--more-->
 
 ### Primitif değişkenler (primitive variable)
 Primitif değişkenler değerlerini kendi üzerlerinde taşırlar. Bunlar 8 tipten biri olabilir `byte`, `short`, `int`, `long`, `char`, `float`, `double`, `boolean`.
-
-<!-- more -->
 
 ### Referans değişkeni (reference variable)
 Referans değişkeni bir nesneyi işaret eder (C/C++ programcıları bunları C/C++'daki **pointer**lara benzetebilir). Referans değişkenlerine örnek olarak herhangi bir sınıf tipindeki değişkenleri verebiliriz. Örnek `Date date`, `String str`.

@@ -5,7 +5,7 @@ tags: [version control systems, git]
 comments: true
 ---
 
-Sürüm kontrol sistemleri, dosyalar üzerinde yaptığımız değişiklikleri kayıt altına almamıza ve daha sonra bu kayıtlara geri dönebilmemize olanak sağlayan sistemlerdir. Sürüm kontrol sistemlerini kullanarak
+Sürüm kontrol sistemleri, dosyalar üzerinde yaptığımız değişiklikleri kayıt altına almamıza ve daha sonra bu kayıtlara geri dönebilmemize olanak sağlayan sistemlerdir.<!--mode-->Sürüm kontrol sistemlerini kullanarak
 
 * projenin geçmişteki bir sürümüne erişebilir,
 * yapılan değişiklikleri karşılaştırabilir,
