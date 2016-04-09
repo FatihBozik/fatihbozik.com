@@ -36,7 +36,7 @@ Primitif değişkenler ve referans değişkenleri şu durumlarda olabilirler.
 
 <img style="max-width: 45%;" align="right" src="/images/javada-depolanan-veriler-nerede-saklanır/metaspace.png" alt="JDK 1.8 Oracle HotSpot Heap Structure" height="auto">
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## Analiz
 

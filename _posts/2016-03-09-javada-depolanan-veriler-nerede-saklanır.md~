@@ -5,6 +5,8 @@ tags: [java, heap, stack]
 comments: true
 ---
 
+{% include _toc.html %}
+
 ## Değişkenler
 
 Java'da **primitif** ve **referans** değişkeni olmak üzere 2 tip değişken vardır.
