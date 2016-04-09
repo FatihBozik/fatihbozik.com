@@ -41,37 +41,7 @@ Primitif değişkenler ve referans değişkenleri şu durumlarda olabilirler.
 
 Örnek bir kod üzerinden anlatmak gerekirse,
 
-{% highlight java %}
-import java.util.Date;
-
-public class Test {
-    int g = 3;
-    static int h = 10;
-    Integer i = 12;
-    static Integer j = 11;
-    MyClass myClass2 = new MyClass();
-    static MyClass myClass3 = new MyClass();
-
-    public static void main(String args[]) {
-        double a = 5.4;
-        Double b = 18.0;
-        MyClass myClass = new MyClass();
-        myClass.setName("fatih");
-    }
-}
-
-class MyClass {
-    int age = 10;
-    static int number = 15;
-    Date myDate = new Date();
-    String name;
-    static String str = "String Deneme";
-
-    public void setName(String param) {
-        this.name = param;
-    }
-}
-{% endhighlight %}
+<script src="https://gist.github.com/FatihBozik/8ddab996978a20b24219c28a1ec6e775.js"></script>
 
 * `g`, `i`, `myClass2` değişkenleri instance variable olduklarından bu değişkenler oluşturulmaz (programımızda hiç Test nesnesi oluşturmadık). Hiç bir yerde depolanmaz. Dolayısıyla initialization(ilk değer atamaları) da yapılmaz. `myClass2 referans değişkeninin göstereceği MyClass nesnesi` de oluşturulmaz. `i referans değişkeninin göstereceği Integer nesnesi` de oluşturulmaz.
 

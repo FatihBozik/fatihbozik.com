@@ -41,6 +41,8 @@ Primitif değişkenler ve referans değişkenleri şu durumlarda olabilirler.
 
 Örnek bir kod üzerinden anlatmak gerekirse,
 
+<script src="https://gist.github.com/FatihBozik/8ddab996978a20b24219c28a1ec6e775.js"></script>
+
 {% highlight java %}
 import java.util.Date;
 

@@ -14,7 +14,7 @@ image:
 
 {::options parse_block_html="true" /}
 <div style="text-align:center;">
-
+<br/>
 ### Otobüs Durağı Simulasyonu &middot; Aralık 2015 &nbsp;<a href="https://github.com/FatihBozik/BusStopSimulation" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a>
 Otobüs Durağı Simulasyonu Android Uygulaması
 
