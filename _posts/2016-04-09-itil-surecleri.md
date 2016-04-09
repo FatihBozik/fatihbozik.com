@@ -9,6 +9,8 @@ image:
 excerpt_separator: <!--more-->
 ---
 
+{% include _toc.html %}
+
 ## Service Strategy (Hizmet Stratejisi)
 
 <img style="max-width: 40%;" align="right" hspace="20" src="/images/itil-surecleri/service-strategy.png" alt="Service Strategy" height="auto">
