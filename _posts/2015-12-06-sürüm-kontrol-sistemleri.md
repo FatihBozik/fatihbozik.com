@@ -2,6 +2,7 @@
 layout: post
 title: Sürüm Kontrol Sistemleri(Version Control Systems) Hakkında
 tags: [version control systems, git]
+category: muhtelif
 comments: true
 ---
 

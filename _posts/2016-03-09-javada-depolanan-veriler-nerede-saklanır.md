@@ -3,6 +3,7 @@ layout: post
 title: Java'da Depolanan Veriler Nerede Saklanır?
 tags: [java, heap, stack]
 comments: true
+category: javase
 excerpt_separator: <!--more-->
 ---
 

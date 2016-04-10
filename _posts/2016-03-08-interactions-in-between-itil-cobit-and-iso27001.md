@@ -3,6 +3,7 @@ layout: post
 title: Interactions in between ITIL, Cobit and ISO27001
 tags: [ITIL, Cobit, ISO27001]
 comments: false
+category: itil
 excerpt_separator: <!--more-->
 ---
 

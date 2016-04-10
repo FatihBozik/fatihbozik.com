@@ -4,6 +4,7 @@ title: ITIL Süreçleri
 tags: [itil, itil phases]
 comments: true
 share: true
+category: itil
 image:
   feature: /itil-surecleri/itil-cycle.jpg
 excerpt_separator: <!--more-->

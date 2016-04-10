@@ -3,6 +3,7 @@ layout: post
 title: "Failed to resolve: junit:junit:4.12"
 tags: [android studio gradle error, junit error]
 comments: true
+category: muhtelif
 image:
   feature:
 excerpt_separator: <!--more-->
