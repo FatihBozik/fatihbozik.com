@@ -16,9 +16,9 @@ image:
 <div style="text-align:center;">
 
 
-### Otobüs Durağı Simulasyonu &middot; Aralık 2015
-<div class="github-card" data-github="fatihbozik/bus-stop-simulation" data-width="400" data-height="150" data-theme="default"></div>
-<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+### Otobüs Durağı Simulasyonu &middot; Aralık 2015 &nbsp;<a href="https://github.com/FatihBozik/bus-stop-simulation" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a>
+Otobüs Durağı Simulasyonu Android Uygulaması
+
 <br/><br/>
 
 ### Tüccarefendi Android Uygulaması &middot; Temmuz - Ağustos 2015 &nbsp;<a href="https://play.google.com/store/apps/details?id=com.tuccarefendi.tccar.mobil" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a>
@@ -28,6 +28,12 @@ Tüccarefendi Android Uygulaması
 
 ### Adam Asmaca Android Uygulaması &middot; Mayıs 2015 &nbsp;<a href="https://play.google.com/store/apps/details?id=com.adamasmaca" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a>
 Adam Asmaca Android uygulaması
+
+<br/><br/>
+
+### MIPS Simulasyon &middot; Mayıs 2015  &nbsp;<a href="https://github.com/FatihBozik/mips-simulation" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a>
+**Kullanılan teknolojiler :** VHDL<br/>
+MIPS komut kümesi mimarisine ek komutlar ekleyerek VHDL dilinde gerçeklenmesi 
 
 <br/><br/>
 
