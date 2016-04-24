@@ -1,0 +1,10 @@
+# Site navigation links
+
+- title: Hakkımda
+  url: /about/
+
+- title: YAZILAR
+  url: /posts/
+
+- title: ETİKETLER
+  url: /tags/

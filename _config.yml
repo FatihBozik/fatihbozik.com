@@ -1,0 +1,78 @@
+# Site wide configuration
+
+title:            FATİH BOZİK
+locale:           tr_TR
+url:              http://fatihbozik.github.io
+baseurl:          /blog
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+  - jekyll-gist
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+mathjax: true
+
+
+# Octopress
+
+# Default extensions
+post_ext: md
+page_ext: md
+
+# Found in _templates/
+post_layout: post
+page_layout: page
+
+# Format titles with titlecase?
+titlecase: true
+
+
+# Site owner
+owner:
+  name: Fatih Bozik
+  avatar: https://pbs.twimg.com/profile_images/659132596211683328/aFuB5Ook.jpg
+  bio: "İstanbul Üniversitesi Bilgisayar Mühendisliği"
+  email: bozikfatih@gmail.com
+  disqus-shortname: fatihbozik
+  twitter: #username
+  facebook: #username
+  google:
+    plus: 
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: fatihbozik
+  stackoverflow: 2763057/fatih   #from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: fatihbozik
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  codepen: #username
+
+include: [".htaccess"]
+exclude: ["examples/*" ,"lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
