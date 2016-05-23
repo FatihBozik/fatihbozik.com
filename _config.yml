@@ -2,7 +2,9 @@
 
 title:            FATİH BOZİK
 locale:           tr_TR
-url:		  http://fatihbozik.com
+#url:              http://fatihbozik.com
+url:		  
+
 
 # Jekyll configuration
 
