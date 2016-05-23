@@ -14,7 +14,10 @@ Ubuntu işletim sisteminde Android Studio'da yeni bir proje oluşturduğumda kar
 
 <!--more-->
 
+<<<<<<< HEAD
 <img style="max-width: 100%;" src="/images/failed-to-resolve-junit/junit error.png" alt="Grandle junit hatası" height="auto">
+=======
+<img style="max-width: 100%;" src="{{ site.baseurl }}/images/failed-to-resolve-junit/junit error.png" alt="Grandle junit hatası" height="auto">
 
 ### Çözüm
 `../AndroidStudioProjects/{ProjectName}/app/build.gradle` dosyası aşağıdaki gibi düzenlenir.

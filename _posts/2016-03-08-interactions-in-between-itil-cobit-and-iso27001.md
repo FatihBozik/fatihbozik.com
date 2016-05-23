@@ -9,19 +9,27 @@ excerpt_separator: <!--more-->
 
 <img style="max-width: 30%;" align="right" src="/images/interactions-in-between-itil-cobit-and-iso27001/itil.png" alt="Life Cycle Phases ITIL" height="auto">
 
+<img style="max-width: 30%;" align="right" src="{{ site.baseurl }}/images/interactions-in-between-itil-cobit-and-iso27001/itil.png" alt="Life Cycle Phases ITIL" height="auto">
+
 ### ITIL
 
 **ITIL** is stand for **I**nformation **T**echnology **I**nfrastructure **L**ibrary. **ITIL** issued by OGC, is a set of framework for managing IT Service Level. <!--more--> Although **ITIL** is quite similar with **CobiT** in many ways, but the basic difference is **CobiT** set the standard by seeing the process based and risk, and in the other hand **ITIL** set the standard from basic IT service. 
 
 <br/><br/>
+<<<<<<< HEAD
 <img style="max-width: 40%;" align="right" src="/images/interactions-in-between-itil-cobit-and-iso27001/cobit.jpg" alt="Cobit Principles" height="auto"> 
+
+<img style="max-width: 40%;" align="right" src="{{ site.baseurl }}/images/interactions-in-between-itil-cobit-and-iso27001/cobit.jpg" alt="Cobit Principles" height="auto"> 
 
 ### COBIT
 
 **CobiT** is stand for **C**ontrol **OB**jectives for **I**nformation and related **T**echnology. **CobiT** issued by ISACA (Information System Control Standard) a non profit organization for IT Governance. The **CobiT** main function is to help the company, mapping their IT process to ISACA best practices standard. **CobiT** usually choosen by the company who performing information system audit, whether related to financial audit or general IT audit.
 
 <br/><br/>
+
 <img style="max-width: 30%;" align="right" src="/images/interactions-in-between-itil-cobit-and-iso27001/iso.png" alt="ISO27001" height="auto"> 
+
+<img style="max-width: 30%;" align="right" src="{{ site.baseurl }}/images/interactions-in-between-itil-cobit-and-iso27001/iso.png" alt="ISO27001" height="auto"> 
 
 ### ISO27001
 

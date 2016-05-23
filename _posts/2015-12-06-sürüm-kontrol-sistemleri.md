@@ -19,7 +19,10 @@ Sürüm kontrol sistemleri, dosyalar üzerinde yaptığımız değişiklikleri k
 
 Dosyalardaki bütün değişiklikleri(dosya sürümlerini) veritabanına kaydeden sürüm kontrol sistemleridir.
 
+<<<<<<< HEAD
 <img style="max-width: 100%;" src="/images/sürüm-kontrol-sistemleri/local version control systems.png" alt="Local Control Systems" height="auto">
+=======
+<img style="max-width: 100%;" src="{{ site.baseurl }}/images/sürüm-kontrol-sistemleri/local version control systems.png" alt="Local Control Systems" height="auto">
 
 ### Merkezi Sürüm Kontrol Sistemleri(Centralized Version Control Systems)
 
@@ -27,11 +30,15 @@ Dosyalardaki bütün değişiklikleri(dosya sürümlerini) veritabanına kaydede
 
 <img style="max-width: 100%;" src="/images/sürüm-kontrol-sistemleri/centralized version control systems.png" alt="Centralized Version Control Systems" height="auto">
 
+<img style="max-width: 100%;" src="{{ site.baseurl }}/images/sürüm-kontrol-sistemleri/centralized version control systems.png" alt="Centralized Version Control Systems" height="auto">
+
 ### Dağıtık Sürüm Kontrol Sistemleri(Distributed Version Control Systems)
 
 Yerel ve merkezi kontrol sistemlerinin ikisinde de sürüm kontrolüne alınan dosyalar tek bir bilgisayarda tutulduğundan yedekleme yapılmadığı takdirde merkezi veritabanının sabit diskinde meydana gelebilecek bir hata tüm projenin kaybedilmesine yol açabiliyordu. Bu sorunun çözebilmek için `Dağıtık Sürüm Kontrol Sistemleri`(Git, Mercurial) geliştirildi. Bu sistemlerde istemciler dosyaların yalnızca belelk kopyalarını almakla kalmazlar. Yazılım havuzunu(repository) kopyalarlar. Kullanıcıların yaptığı her seçme işlemi(checkout) bütün verinin yedeklenmesiyle sonuçlanır.
 
 <img style="max-width: 100%;" src="/images/sürüm-kontrol-sistemleri/distributed version control systems.png" alt="Distributed Version Control Systems" height="auto">
+
+<img style="max-width: 100%;" src="{{ site.baseurl }}/images/sürüm-kontrol-sistemleri/distributed version control systems.png" alt="Distributed Version Control Systems" height="auto">
 
 <br/><br/><br/><br/>
 
