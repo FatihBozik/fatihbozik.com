@@ -229,7 +229,7 @@ x& = -2\alpha + 8 \newline
 B_\alpha& = [b_1(\alpha), \ b_2(\alpha)] \newline
         & = [\alpha + 5, \ -2\alpha + 8] \newline
 \newline
-A_\alpha \  (:) \ B_\alpha& = [a_1(\alpha) \ : \ b_2(\alpha), \ a_2(\alpha) \ : \ b_1(\alpha)] \newline
+A_\alpha \  (:) \ B_\alpha& = [a_1(\alpha) \ / \ b_2(\alpha), \ a_2(\alpha) \ / \ b_1(\alpha)] \newline
 		     & = [4\alpha + 18, \ -11\alpha + 33] \ (:) \ [\alpha + 5, \ -2\alpha + 8] \newline
 		     & = \left[\frac{4\alpha + 18}{-2\alpha + 8},\ \frac{-11\alpha + 33}{-11\alpha + 13}\right]
 \end{align}
