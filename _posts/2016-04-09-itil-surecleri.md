@@ -7,6 +7,7 @@ share: true
 category: itil
 image:
   feature: /itil-surecleri/itil-cycle.jpg
+abstract: ITIL süreçleri hakkındaki yazım
 excerpt_separator: <!--more-->
 ---
 

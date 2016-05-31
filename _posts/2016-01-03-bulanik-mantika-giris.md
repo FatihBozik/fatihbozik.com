@@ -2,6 +2,7 @@
 layout: post
 title: Bulanık Mantık'a Giriş
 tags: [Bulanık Mantık, Bulanık Küme]
+abstract: Bulanık Mantık, Bulanık Küme tanımları ve Bulanık Kümeler üzerinde tanımlanmış işlemler nelerdir?
 comments: true
 ---
 

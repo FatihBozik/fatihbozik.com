@@ -4,6 +4,7 @@ title: "Failed to resolve: junit:junit:4.12"
 tags: [android studio gradle error, junit error]
 comments: true
 category: muhtelif
+abstract: "Android Studio'da Failed to resolve: junit:junit:4.12 hatasının çözümü"
 image:
   feature:
 excerpt_separator: <!--more-->

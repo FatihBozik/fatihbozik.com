@@ -4,6 +4,7 @@ title: Interactions in between ITIL, Cobit and ISO27001
 tags: [ITIL, Cobit, ISO27001]
 comments: false
 category: itil
+abstract: What is the ITIL, Cobit and IS027001? Interactions in between ITIL, Cobit and ISO27001
 excerpt_separator: <!--more-->
 ---
 

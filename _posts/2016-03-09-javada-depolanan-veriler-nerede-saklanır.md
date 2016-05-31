@@ -4,6 +4,7 @@ title: Java'da Depolanan Veriler Nerede Saklanır?
 tags: [java, heap, stack]
 comments: true
 category: javase
+abstract: Java'da değişkenler ve nerede saklandıklarına dair yazım
 excerpt_separator: <!--more-->
 ---
 
