@@ -17,7 +17,6 @@ excerpt_separator: <!--more-->
 
 <img style="max-width: 40%;" align="right" hspace="20" src="/images/itil-surecleri/service-strategy.png" alt="Service Strategy" height="auto">
 
-<img style="max-width: 40%;" align="right" hspace="20" src="{{ site.baseurl }}/images/itil-surecleri/service-strategy.png" alt="Service Strategy" height="auto">
 IT hizmet yönetimi ile ilgili genel stratejilerin nasıl belirleneceğini kapsamaktadır.<!--more--> Bu kapsam içerisinde müşteri ve pazarların belirlenmesi, her türlü kaynakların, yeteneklerin ve sınırlamaların belirlenmesi olarak düşünülebilir. Strateji oluşturmanın temel amacı seçilen pazarlar ve müşteriler için sunulan servislerde en iyisi olmaktır. _Hizmet Stratejisi başlığında incelenen alt süreçler şunlardır:_ <br/><br/>
 
 **Service Portfolio Management (Hizmet Portföy Yönetimi):** Gelirlerin maksimize edilerek risklerin yönetilmesini amaçlamaktadır. <br/><br/>
@@ -29,8 +28,6 @@ IT hizmet yönetimi ile ilgili genel stratejilerin nasıl belirleneceğini kapsa
 ## Service Design (Hizmet Tasarımı)
 
 <img style="max-width: 40%;" align="right" hspace="20" src="/images/itil-surecleri/service-design.png" alt="Service Design" height="auto">
-
-<img style="max-width: 40%;" align="right" hspace="20" src="{{ site.baseurl }}/images/itil-surecleri/service-design.png" alt="Service Design" height="auto">
 
 Bu aşamada ise oluşturulacak olan hizmetin çeşitli kısıtlara karşı olan tasarımı ile ilgilenmektedir. Ayrıca iş birimlerinin ihtiyaçlarına yönelik olan hizmetlerin ne şekilde tasarlanacağını, hizmetlerin finansal değerlendirmesini ve ileri dönük olarak desteklenip desteklenemeyeceğini belirler. Bu aşamanın en önemli çıktısı olarak Hizmet Tasarım Paketleri (Service Design Package – SDP) elde edilir. Bu paketler içerisinde hizmetin geliştirilmesi, test edilmesi, yaygınlaştırılması ve operasyonu ile ilgili tüm detaylar yer almaktadır. _Hizmet Tasarımı başlığında incelenen alt süreçler şunlardır:_ <br/><br/>
 
@@ -51,8 +48,6 @@ Bu aşamada ise oluşturulacak olan hizmetin çeşitli kısıtlara karşı olan 
 ### Service Strategy - Service Design İlişkisi
 
 <img style="max-width: 100%;" src="/images/itil-surecleri/service-phases-relations.png" alt="Service Phases Relations" height="auto"><br/><br/>
-
-<img style="max-width: 100%;" src="{{ site.baseurl }}/images/itil-surecleri/service-phases-relations.png" alt="Service Phases Relations" height="auto"><br/><br/>
 
 Hizmet Tasarımı; hizmet stratejisine bağlı kalarak verilecek hizmetin nasıl olacağına cevap arandığı ve hizmetlerin tasarlandığı bölümdür. İş isteklerinin alınması ile başlar, bu istekleri yapacak hizmetlerin geliştirilmesi ile son bulur. Metrikler, ölçüm sistemleri gibi enstrümanların bu kısımda tanımlanması gerekmektedir.<br/><br/>
 
@@ -77,8 +72,6 @@ Basit olarak aslında bunlar bizim müşterimizin ihtiyaçlarını karşılamak 
 
 <img style="max-width: 40%;" align="right" hspace="20" src="/images/itil-surecleri/service-transition.png" alt="Service Transition" height="auto">
 
-<img style="max-width: 40%;" align="right" hspace="20" src="{{ site.baseurl }}/images/itil-surecleri/service-transition.png" alt="Service Transition" height="auto">
-
 Bu bölüm ise tasarımı yapılmış olan bir hizmetin faaliyete geçmesini sağlamak için yol gösterici nitelik taşımaktadır. Bir hizmet için gerekli olan teknik veya teknik olmayan tüm öğeler Hizmet Geçişi’ nde yer almaktadır. Servis yaşam döngüsünün en önemli bölümü olup hizmet tasarımı aşamasında oluşturduğumuz Hizmet Tasarım Paketleri geliştirilir ve testleri yapılarak sisteme yüklenir. <br/><br/>
 
 Hizmet geçişi aşaması işletme ihtiyaçlarının geliştirilen hizmetler ile karşılanması sırasında ortaya çıkabilecek her türlü riski de en aza indirmeyi amaçlar. riski de minimum seviyede tutmayı amaçlar. Ayrıca bu bölümde mevcut hizmetlerdeki değişiklik talepleri karşılanmaktadır. <br/><br/>
@@ -96,8 +89,6 @@ _Hizmet Geçişi başlığında incelenen alt süreçler şunlardır:_ <br/><br/
 ## Service Operation (Hizmet Operasyonu)
 
 <img style="max-width: 40%;" align="right" hspace="20" src="/images/itil-surecleri/service-operation.png" alt="Service Operation" height="auto">
-
-<img style="max-width: 40%;" align="right" hspace="20" src="{{ site.baseurl }}/images/itil-surecleri/service-operation.png" alt="Service Operation" height="auto">
 
 Hizmet Operasyon aşaması sunulmakta olan hizmetin daha verimli ve efektif kullanımını amaçlamaktadır. Bu aşamada şirket stratejisi fiiliyata geçer ve hizmet operasyonu adımında kullanılan hizmetler müşteriye sunulmaya başlar. Dolayısıyla müşteriye sunulan hizmetin işleyişinin takibi ve olası geliştirme ve düzeltmelerin izlenerek performans raporları ile sunulması da bu bölümde sağlanmaktadır. <br/><br/>
 
