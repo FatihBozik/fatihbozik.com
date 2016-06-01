@@ -13,9 +13,10 @@ excerpt_separator: <!--more-->
 
 {% include _toc.html %}
 
-## Service Strategy (Hizmet Stratejisi)
 <img style="max-width: 40%;" align="right" hspace="20" src="/images/itil-surecleri/service-strategy.png" alt="Service Strategy" height="auto">
-<br/>
+
+## Service Strategy (Hizmet Stratejisi)
+
 IT hizmet yönetimi ile ilgili genel stratejilerin nasıl belirleneceğini kapsamaktadır.<!--more--> Bu kapsam içerisinde müşteri ve pazarların belirlenmesi, her türlü kaynakların, yeteneklerin ve sınırlamaların belirlenmesi olarak düşünülebilir. Strateji oluşturmanın temel amacı seçilen pazarlar ve müşteriler için sunulan servislerde en iyisi olmaktır. _Hizmet Stratejisi başlığında incelenen alt süreçler şunlardır:_ <br/><br/>
 
 **Service Portfolio Management (Hizmet Portföy Yönetimi):** Gelirlerin maksimize edilerek risklerin yönetilmesini amaçlamaktadır. <br/><br/>
@@ -24,9 +25,10 @@ IT hizmet yönetimi ile ilgili genel stratejilerin nasıl belirleneceğini kapsa
 
 **Demand Management (Talep Yönetimi):** İş birimleri ile yakından çalışarak şirket ihtiyaçlarının belirlenmesi için kullanılmaktadır. Talep yönetimi; müşteri ihtiyaçlarına yönelik olarak hazırlanan hizmet paketlerinin maliyet, kalite ve kapasite anlamında optimize edilmesini sağlar. <br/><br/>
 
-## Service Design (Hizmet Tasarımı)
 <img style="max-width: 40%;" align="right" hspace="20" src="/images/itil-surecleri/service-design.png" alt="Service Design" height="auto">
-<br/>
+
+## Service Design (Hizmet Tasarımı)
+
 Bu aşamada ise oluşturulacak olan hizmetin çeşitli kısıtlara karşı olan tasarımı ile ilgilenmektedir. Ayrıca iş birimlerinin ihtiyaçlarına yönelik olan hizmetlerin ne şekilde tasarlanacağını, hizmetlerin finansal değerlendirmesini ve ileri dönük olarak desteklenip desteklenemeyeceğini belirler. Bu aşamanın en önemli çıktısı olarak Hizmet Tasarım Paketleri (Service Design Package – SDP) elde edilir. Bu paketler içerisinde hizmetin geliştirilmesi, test edilmesi, yaygınlaştırılması ve operasyonu ile ilgili tüm detaylar yer almaktadır. _Hizmet Tasarımı başlığında incelenen alt süreçler şunlardır:_ <br/><br/>
 
 **Service Catalog Management (Hizmet Katalog Yönetimi):** Halen kullanılmakta olan hizmetlerle ilgili bilgilerin herkes tarafından erişilebilir olmasını sağlar. <br/><br/>
@@ -43,9 +45,10 @@ Bu aşamada ise oluşturulacak olan hizmetin çeşitli kısıtlara karşı olan 
 
 **Information Security Management (Bilgi Güvenliği Yönetimi):** Veri ve bilgi güvenliğinin sağlanması ve bunun takibi ile ilgilenen süreçtir. <br/><br/>
 
-### Service Strategy - Service Design İlişkisi
 <img style="max-width: 100%;" src="/images/itil-surecleri/service-phases-relations.png" alt="Service Phases Relations" height="auto"><br/><br/>
-<br/>
+
+### Service Strategy - Service Design İlişkisi
+
 Hizmet Tasarımı; hizmet stratejisine bağlı kalarak verilecek hizmetin nasıl olacağına cevap arandığı ve hizmetlerin tasarlandığı bölümdür. İş isteklerinin alınması ile başlar, bu istekleri yapacak hizmetlerin geliştirilmesi ile son bulur. Metrikler, ölçüm sistemleri gibi enstrümanların bu kısımda tanımlanması gerekmektedir.<br/><br/>
 
 Hizmet Stratejisinin ve Hizmet Tasarımının birbiriyle direkt ilişkisinden bahsedecek olursak, Hizmet Stratejisi’nin kavranarak gerçek hayata uygulanması ve böylece hizmet sağlanmasında kaliteyi, müşteri memnuniyetini ve uygun maliyetli hizmet tedarikini gerçekleştirmek için IT uygulamaları, süreçleri ve politikalarıyla birlikte hizmetlerinin tasarımıdır.
@@ -65,9 +68,10 @@ Basit olarak aslında bunlar bizim müşterimizin ihtiyaçlarını karşılamak 
 
 Özetlemek gerekirse hizmet tasarımı aşamasının girdileri Hizmet Stratejisinden sağlanır. Bu girdiler içerisinde tasarlanan hizmetin karşılaması istenen ihtiyaçların, stratejilerin ve sınırlamaların toplanıp kayıt edildiği Hizmet Portföyü yer alır. Hizmet tasarımında üretilen çözüm yalnızca bir teknoloji çözümü değil aynı zamanda hizmet yönetim araçları ve sistemidir. Bu tasarım bileşenleri Hizmet Tasarım Paketi (Service Design Package) içerisine aktarılarak Service Transition (Hizmet Geçiş) aşamasına aktarılır. Burada hizmet geliştirilerek operasyona geçirilir. <br/><br/>
 
-## Service Transition (Hizmet Geçişi)
 <img style="max-width: 40%;" align="right" hspace="20" src="/images/itil-surecleri/service-transition.png" alt="Service Transition" height="auto">
-<br/>
+
+## Service Transition (Hizmet Geçişi)
+
 Bu bölüm ise tasarımı yapılmış olan bir hizmetin faaliyete geçmesini sağlamak için yol gösterici nitelik taşımaktadır. Bir hizmet için gerekli olan teknik veya teknik olmayan tüm öğeler Hizmet Geçişi’ nde yer almaktadır. Servis yaşam döngüsünün en önemli bölümü olup hizmet tasarımı aşamasında oluşturduğumuz Hizmet Tasarım Paketleri geliştirilir ve testleri yapılarak sisteme yüklenir. <br/><br/>
 
 Hizmet geçişi aşaması işletme ihtiyaçlarının geliştirilen hizmetler ile karşılanması sırasında ortaya çıkabilecek her türlü riski de en aza indirmeyi amaçlar. riski de minimum seviyede tutmayı amaçlar. Ayrıca bu bölümde mevcut hizmetlerdeki değişiklik talepleri karşılanmaktadır. <br/><br/>
@@ -82,9 +86,10 @@ _Hizmet Geçişi başlığında incelenen alt süreçler şunlardır:_ <br/><br/
 
 **Knowledge Management (Bilgi Yönetimi):** Bu süreçte servis yaşam döngüsü içerisindeki hizmet ve altyapı ile ilgili bilgi birikimleri düzenlenir. <br/><br/>
 
-## Service Operation (Hizmet Operasyonu)
 <img style="max-width: 40%;" align="right" hspace="20" src="/images/itil-surecleri/service-operation.png" alt="Service Operation" height="auto">
-<br/>
+
+## Service Operation (Hizmet Operasyonu)
+
 Hizmet Operasyon aşaması sunulmakta olan hizmetin daha verimli ve efektif kullanımını amaçlamaktadır. Bu aşamada şirket stratejisi fiiliyata geçer ve hizmet operasyonu adımında kullanılan hizmetler müşteriye sunulmaya başlar. Dolayısıyla müşteriye sunulan hizmetin işleyişinin takibi ve olası geliştirme ve düzeltmelerin izlenerek performans raporları ile sunulması da bu bölümde sağlanmaktadır. <br/><br/>
 
 Bu nedenlerle Hizmet Operasyonunun müşteriye açılan ilk nokta olması nedeniyle en kritik aşama olduğunu söylesek yanlış olmayız. <br/><br/>
