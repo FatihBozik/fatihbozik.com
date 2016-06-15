@@ -9,7 +9,18 @@ image:
   feature:
 ---
 
-## Projelerim
+## Onur ve Ödüller
+{: style="color:#008B8B; text-align: center;"}
+
+{::options parse_block_html="true" /}
+<div style="text-align:center;">
+
+### İstanbul Üniversitesi Bilgisayar Mühendisliği &middot; Haziran 2016
+Bölüm Birinciliği
+</div>
+<br/><br/>
+
+## Projeler
 {: style="color:#258C00; text-align: center;"}
 
 {::options parse_block_html="true" /}
