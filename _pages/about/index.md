@@ -1,0 +1,59 @@
+---
+layout: page
+title: Hakkımda
+modified:
+comments: false
+share : false
+link : https://github.com/FatihBozik/marie-simulator
+image:
+  feature:
+---
+
+## Onur ve Ödüller
+{: style="color:#008B8B; text-align: center;"}
+
+{::options parse_block_html="true" /}
+<div style="text-align:center;">
+
+### İstanbul Üniversitesi Bilgisayar Mühendisliği &middot; Haziran 2016
+Bölüm Birinciliği
+</div>
+<br/><br/>
+
+## Projeler
+{: style="color:#258C00; text-align: center;"}
+
+{::options parse_block_html="true" /}
+<div style="text-align:center;">
+
+
+### Otobüs Durağı Simulasyonu &middot; Aralık 2015 &nbsp;<a href="https://github.com/FatihBozik/bus-stop-simulation" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a>
+Otobüs Durağı Simulasyonu Android Uygulaması
+
+<br/><br/>
+
+### Tüccarefendi Android Uygulaması &middot; Temmuz - Ağustos 2015 &nbsp;<a href="https://play.google.com/store/apps/details?id=com.tuccarefendi.tccar.mobil" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a>
+Tüccarefendi Android Uygulaması
+
+<br/><br/>
+
+### Adam Asmaca Android Uygulaması &middot; Mayıs 2015 &nbsp;<a href="https://play.google.com/store/apps/details?id=com.adamasmaca" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a>
+Adam Asmaca Android uygulaması
+
+<br/><br/>
+
+### MIPS Simulasyon &middot; Mayıs 2015  &nbsp;<a href="https://github.com/FatihBozik/mips-simulation" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a>
+**Kullanılan teknolojiler :** VHDL<br/>
+MIPS komut kümesi mimarisine ek komutlar ekleyerek VHDL dilinde gerçeklenmesi 
+
+<br/><br/>
+
+### Araba Kiralama Sistemi &middot; Nisan - Mayıs 2014  &nbsp;<a href="https://github.com/FatihBozik/car-rental-system" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a>
+**Kullanılan teknolojiler :** JSF, HTML, CSS
+
+<br/><br/>
+
+### Marie Simulator &middot; Mayıs 2014 &nbsp;<a href="https://github.com/FatihBozik/marie-simulator" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a>
+**Kullanılan teknolojiler :** C# Windows Form<br/>
+MARIE bilgisayarı için yazılan programları çalıştıran simülatör
+</div>

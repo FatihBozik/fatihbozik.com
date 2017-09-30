@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : "Fatih Bozik"
 description              : "An amazing website."
 url                      : "https://fatihbozik.github.io"
-baseurl                  : "/blog"
+baseurl                  : # "/blog"
 repository               : "FatihBozik/blog"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
